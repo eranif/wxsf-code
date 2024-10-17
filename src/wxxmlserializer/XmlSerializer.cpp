@@ -8,7 +8,7 @@
  * Notes:
  **************************************************************/
 
-#include "wx_pch.h"
+#include "../wx_pch.h"
 
 #ifdef _DEBUG_MSVC
 #define new DEBUG_NEW
